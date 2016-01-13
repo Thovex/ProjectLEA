@@ -3,3 +3,5 @@
 
 Hiet word uitgebreid uitgelegt hoe je project L.E.A. namaakt.  
 [Klik hier voor de project benodigdheden.](Docs/Benodigdheden.md)
+[Klik hier voor de project benodigdheden.](Docs/Tutorial digital code.md)
+[Klik hier voor de project benodigdheden.](Docs/Tutorial fysiek object.md)
