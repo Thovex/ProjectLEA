@@ -1,8 +1,9 @@
 #Project Light Emitting Ammocounter
-Voor het project If This Then That op het HKU  
-Door Jesse van Vliet, G&I1D, 3012446.
+If This Then That  
+Door Jesse van Vliet  
+Student Game Development HKU
 
-Benodigheden voor dit project:  
+#Benodigheden voor dit project  
 - Een willekeurige Arduino
 - 10x Oranje Leds
 - 10x Weerstandjes 220 Ω
