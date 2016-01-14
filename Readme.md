@@ -1,8 +1,18 @@
 <img src="http://studenthome.hku.nl/~jesse.vanvliet/Files/IfThisThenThat/Header.png">
 #Project Light Emitting Ammocounter
 
-Hiet word uitgebreid uitgelegt hoe je project L.E.A. namaakt.  
+[![ScreenShot](http://u.cubeupload.com/Thovex/fd915.png)](https://vimeo.com/groups/gamesandinteraction/videos/151684378)
+
+Hier word uitgebreid uitgelegt hoe je project L.E.A. namaakt.  
 [Klik hier voor de project benodigdheden.](Docs/Benodigdheden.md)  
 [Klik hier voor de tutorial voor de code.](Docs/Tutorial digital code.md)  
 [Klik hier voor de tutorial voor het maken van het object.](Docs/Tutorial fysiek object.md)  
 [Klik hier voor de tutorial voor geheugen uitlezen.](Docs/Tutorial geheugen uitlezen.md)
+
+#Credits:
+Jesse J. van Vliet
+- Concept
+- Design
+- Programming
+- Documentation
+- Video Editting
