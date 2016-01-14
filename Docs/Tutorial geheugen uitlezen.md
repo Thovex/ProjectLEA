@@ -17,4 +17,9 @@ Download het programma: [CheatEngine](http://mirror3.cheatengine.org/download/d1
 
 #Stap 3: Gebruiken van CheatEngine
 Open het programma, klik op het knipperende knopje linksbovenin. Genaamd "Select a process to open". En kies csgo.exe
-<img src="http://u.cubeupload.com/Thovex/10.png">  
+<img src="http://u.cubeupload.com/Thovex/51510.png">  
+Vervolgens join je een game sessie in counter-strike. 
+We hebben 2 geheugen addressen nodig om te voltooien wat wij willen. De current ammo en ammoclip size.
+Om deze te vinden kijken we wat ons momenteel aantal kogels is.  
+<img src="http://u.cubeupload.com/Thovex/11.png">
+In ons geval is dit 20 en de max clipsize is ook 20.
