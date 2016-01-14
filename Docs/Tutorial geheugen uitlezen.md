@@ -34,4 +34,4 @@ adres maar dan +4 aan het einde. Dus 064EC5D8. De clipsize is erg moeilijk om te
 manier als dit. Het enige probleem is dat de clipsize af en toe een ander adres pakt.
 
 #Stap 4: Het gebruiken van het geheugen adres
-[Je vervolgt de code tutorial verder om dit toe te passen.(Tutorial digital code.md).
+[Je vervolgt de code tutorial verder om dit toe te passen.](Tutorial digital code.md).
