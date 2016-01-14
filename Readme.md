@@ -16,3 +16,7 @@ Jesse J. van Vliet
 - Programming
 - Documentation
 - Video Editting
+
+[± 25 Counter-Strike players](http://steamcommunity.com/id/Thovex/friendsthatplay/730)
+- Feedback Concept
+- Feedback Design
