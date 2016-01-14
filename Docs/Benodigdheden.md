@@ -8,6 +8,9 @@
 - 1x USB to micro-USB kabel
 - 20cm Koper tape
 - 40x8x2,5cm MDF plaat
+- Klein stukje resthout v.d. arduino
 - Zwarte Spuitverf
+- Staaldraad
+- Rubberbescherming
 - Lijm
 - Laptop met Arduino software en CodeBlocks.
