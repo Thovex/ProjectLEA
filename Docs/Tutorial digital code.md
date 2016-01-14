@@ -17,3 +17,5 @@ Vervolgens compile je het project en ben je klaar voor de volgende stap, de ardu
 #Stap 3: Setup project in Arduino
 <img src="http://u.cubeupload.com/Thovex/5.png">  
 Je start het arduino programma op en importeerd de [volgende code](../Code/ArduinoCode.ino).
+
+Vervolgens compile je het project en ben je klaar met de code.
