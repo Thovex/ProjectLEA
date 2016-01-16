@@ -1,6 +1,9 @@
 <img src="http://studenthome.hku.nl/~jesse.vanvliet/Files/IfThisThenThat/Header.png">
 #Project Light Emitting Ammocounter
 
+#Uitgebreide concept informatie
+http://studenthome.hku.nl/~jesse.vanvliet/projecten-ifthisthenthat.php
+
 [![ScreenShot](http://u.cubeupload.com/Thovex/fd915.png)](https://vimeo.com/groups/gamesandinteraction/videos/151684378)
 
 Hier word uitgebreid uitgelegt hoe je project L.E.A. namaakt.  
